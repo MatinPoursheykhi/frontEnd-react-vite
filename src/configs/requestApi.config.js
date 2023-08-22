@@ -22,7 +22,7 @@ function setHeaders(_auth) {
         }
     }
     if (_auth)
-        config.headers['Authorization'] = '123'
+        config.headers['Authorization'] = 'bearer tokenCode'
     return config
 }
 
