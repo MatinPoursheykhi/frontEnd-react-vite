@@ -13,4 +13,4 @@ This is a simple frontEnd project based on REACT accompanied by TAILWIND. Also i
 you can find this mentioned backEnd on my gitHub => (MatinPoursheykhi/backEnd-nodeJs-sequelize)
 and clone it.
 
-** you may need to change your dataBase, thus the infrastructures are provided to switch between json-server and local dataBase.
+** you may need to change your dataBase, thus the infrastructures are provided to switch between json-server and your local dataBase.
