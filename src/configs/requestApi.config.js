@@ -1,6 +1,8 @@
 import axios from "axios"
 
-// ** pls use(yarn server) or (npm run server) to start json-server on an other terminanl
+// pls use (yarn server) to start json-server {https://www.npmjs.com/package/json-server}
+// and run project on different terminal through (yarn dev)
+// on an other terminanl simultaneously
 let API = 'jsonServer'
 let baseUrl
 
